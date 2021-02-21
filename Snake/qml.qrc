@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>venusrising.ttf</file>
+        <file>snake.js</file>
+        <file>Block.qml</file>
+        <file>lunch.png</file>
+        <file>snake.png</file>
+        <file>doublepoints.png</file>
+        <file>extralife.png</file>
+    </qresource>
+</RCC>

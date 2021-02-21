@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>chessmoves.js</file>
+        <file>chessai.js</file>
+        <file>Block.qml</file>
+        <file>Piece.qml</file>
+        <file>Pieces/BBishop.png</file>
+        <file>Pieces/BKing.png</file>
+        <file>Pieces/BKnight.png</file>
+        <file>Pieces/BPawn.png</file>
+        <file>Pieces/BQueen.png</file>
+        <file>Pieces/BRook.png</file>
+        <file>Pieces/drawing.svg</file>
+        <file>Pieces/WBishop.png</file>
+        <file>Pieces/WKing.png</file>
+        <file>Pieces/WKnight.png</file>
+        <file>Pieces/WPawn.png</file>
+        <file>Pieces/WQueen.png</file>
+        <file>Pieces/WRook.png</file>
+    </qresource>
+</RCC>
